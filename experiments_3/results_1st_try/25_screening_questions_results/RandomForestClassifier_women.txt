@@ -1,0 +1,14 @@
+Evaluation metrics for women:
+Accuracy: 0.8611111111111112
+Precision: 0.9285714285714286
+Recall: 0.7647058823529411
+F1 Score: 0.8387096774193549
+ROC AUC Score: 0.8560371517027864
+
+Best Model Parameters:
+criterion: gini
+max_depth: None
+max_features: sqrt
+min_samples_leaf: 1
+min_samples_split: 5
+n_estimators: 100

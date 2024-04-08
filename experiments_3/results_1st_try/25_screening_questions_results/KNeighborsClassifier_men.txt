@@ -1,0 +1,11 @@
+Evaluation metrics for men:
+Accuracy: 0.9166666666666666
+Precision: 0.8333333333333334
+Recall: 1.0
+F1 Score: 0.9090909090909091
+ROC AUC Score: 0.9285714285714286
+
+Best Model Parameters:
+metric: manhattan
+n_neighbors: 5
+weights: distance

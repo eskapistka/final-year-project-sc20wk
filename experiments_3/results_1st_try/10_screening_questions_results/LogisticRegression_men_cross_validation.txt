@@ -1,0 +1,7 @@
+Cross-Validation Accuracy Scores for men:
+Fold 1: 1.0
+Fold 2: 0.9473684210526315
+Fold 3: 1.0
+Fold 4: 1.0
+Fold 5: 0.8888888888888888
+Mean CV Accuracy: 0.967251461988304
