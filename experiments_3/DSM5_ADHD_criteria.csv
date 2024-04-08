@@ -1,0 +1,44 @@
+criteria_id;category;criteria_text
+A;inattention;Often fails to give close attention to details or makes careless mistakes in schoolwork, at work, or during other activities (e.g., overlooks or misses details, work is inaccurate).
+A;inattention;Often fails to give close attention to details or makes careless mistakes in schoolwork, at work, or during other activities (e.g., overlooks or misses details, work is inaccurate).
+A;inattention;Often fails to give close attention to details or makes careless mistakes in schoolwork, at work, or during other activities (e.g., overlooks or misses details, work is inaccurate).
+B;inattention;Often has difficulty sustaining attention in tasks or play activities (e.g., has difficulty remaining focused during lectures, conversations, or lengthy reading).
+B;inattention;Often has difficulty sustaining attention in tasks or play activities (e.g., has difficulty remaining focused during lectures, conversations, or lengthy reading).
+B;inattention;Often has difficulty sustaining attention in tasks or play activities (e.g., has difficulty remaining focused during lectures, conversations, or lengthy reading).
+C;inattention;Often does not seem to listen when spoken to directly (e.g., mind seems elsewhere, even in the absence of any obvious distraction).
+C;inattention;Often does not seem to listen when spoken to directly (e.g., mind seems elsewhere, even in the absence of any obvious distraction).
+D;inattention;Often does not follow through on instructions and fails to finish schoolwork, chores, or duties in the workplace (e.g., starts tasks but quickly loses focus and is easily sidetracked).
+D;inattention;Often does not follow through on instructions and fails to finish schoolwork, chores, or duties in the workplace (e.g., starts tasks but quickly loses focus and is easily sidetracked).
+D;inattention;Often does not follow through on instructions and fails to finish schoolwork, chores, or duties in the workplace (e.g., starts tasks but quickly loses focus and is easily sidetracked).
+E;inattention;Often has difficulty organizing tasks and activities (e.g., difficulty managing sequential tasks, difficulty keeping materials and belongings in order, messy, disorganized work, has poor time management, fails to meet deadlines).
+E;inattention;Often has difficulty organizing tasks and activities (e.g., difficulty managing sequential tasks, difficulty keeping materials and belongings in order, messy, disorganized work, has poor time management, fails to meet deadlines).
+E;inattention;Often has difficulty organizing tasks and activities (e.g., difficulty managing sequential tasks, difficulty keeping materials and belongings in order, messy, disorganized work, has poor time management, fails to meet deadlines).
+F;inattention;Often avoids, dislikes, or is reluctant to engage in tasks that require sustained mental effort (e.g., schoolwork or homework, for older adolescents and adults, preparing reports, completing forms, reviewing lengthy papers).
+F;inattention;Often avoids, dislikes, or is reluctant to engage in tasks that require sustained mental effort (e.g., schoolwork or homework, for older adolescents and adults, preparing reports, completing forms, reviewing lengthy papers).
+F;inattention;Often avoids, dislikes, or is reluctant to engage in tasks that require sustained mental effort (e.g., schoolwork or homework, for older adolescents and adults, preparing reports, completing forms, reviewing lengthy papers).
+G (I);inattention;Often loses things necessary for tasks or activities (e.g., school materials, pencils, books, tools, wallets, keys, paperwork, eyeglasses, mobile telephones). 
+G;inattention;Often loses things necessary for tasks or activities (e.g., school materials, pencils, books, tools, wallets, keys, paperwork, eyeglasses, mobile telephones). 
+G;inattention;Often loses things necessary for tasks or activities (e.g., school materials, pencils, books, tools, wallets, keys, paperwork, eyeglasses, mobile telephones). 
+H;inattention;Is often easily distracted by extraneous stimuli (for older adolescents and adults, may include unrelated thoughts).
+H;inattention;Is often easily distracted by extraneous stimuli (for older adolescents and adults, may include unrelated thoughts).
+H (C);inattention;Is often easily distracted by extraneous stimuli (for older adolescents and adults, may include unrelated thoughts).
+I;inattention;Is often forgetful in daily activities (e.g., doing chores, running errands, for older adolescents and adults, returning calls, paying bills, keeping appointments).
+I;inattention;Is often forgetful in daily activities (e.g., doing chores, running errands, for older adolescents and adults, returning calls, paying bills, keeping appointments).
+a (c, d);hyperactivity/impulsivity;Often fidgets with or taps hands or feet or squirms in seat.
+a (d);hyperactivity/impulsivity;Often fidgets with or taps hands or feet or squirms in seat.
+b;hyperactivity/impulsivity;Often leaves seat in situations when remaining seated is expected (e.g., leaves his or her place in the classroom, in the office or other workplace, or in other situations that require remaining in place).
+b;hyperactivity/impulsivity;Often leaves seat in situations when remaining seated is expected (e.g., leaves his or her place in the classroom, in the office or other workplace, or in other situations that require remaining in place).
+b;hyperactivity/impulsivity;Often leaves seat in situations when remaining seated is expected (e.g., leaves his or her place in the classroom, in the office or other workplace, or in other situations that require remaining in place).
+c;hyperactivity/impulsivity;Often runs about or climbs in situations where it is inappropriate. (Note: In adolescents or adults, may be limited to feeling restless.)
+c;hyperactivity/impulsivity;Often runs about or climbs in situations where it is inappropriate. (Note: In adolescents or adults, may be limited to feeling restless.)
+d;hyperactivity/impulsivity;Often unable to play or engage in leisure activities quietly.
+e;hyperactivity/impulsivity;Is often “on the go,” acting as if “driven by a motor” (e.g., is unable to be or uncomfortable being still for extended time, as in restaurants, meetings, may be experienced by others as being restless or difficult to keep up with).
+e;hyperactivity/impulsivity;Is often “on the go,” acting as if “driven by a motor” (e.g., is unable to be or uncomfortable being still for extended time, as in restaurants, meetings, may be experienced by others as being restless or difficult to keep up with).
+e;hyperactivity/impulsivity;Is often “on the go,” acting as if “driven by a motor” (e.g., is unable to be or uncomfortable being still for extended time, as in restaurants, meetings, may be experienced by others as being restless or difficult to keep up with).
+f;hyperactivity/impulsivity;Often talks excessively.
+g;hyperactivity/impulsivity;Often blurts out an answer before a question has been completed (e.g., completes people’s sentences, cannot wait for turn in conversation).
+g (f);hyperactivity/impulsivity;Often blurts out an answer before a question has been completed (e.g., completes people’s sentences, cannot wait for turn in conversation).
+g (h,f);hyperactivity/impulsivity;Often blurts out an answer before a question has been completed (e.g., completes people’s sentences, cannot wait for turn in conversation).
+h;hyperactivity/impulsivity;Often has difficulty waiting his or her turn (e.g., while waiting in line).
+i;hyperactivity/impulsivity;Often interrupts or intrudes on others (e.g., butts into conversations, games, or activities, may start using other people’s things without asking or receiving permission, for adolescents and adults, may intrude into or take over what others are doing).
+i;hyperactivity/impulsivity;Often interrupts or intrudes on others (e.g., butts into conversations, games, or activities, may start using other people’s things without asking or receiving permission, for adolescents and adults, may intrude into or take over what others are doing).
