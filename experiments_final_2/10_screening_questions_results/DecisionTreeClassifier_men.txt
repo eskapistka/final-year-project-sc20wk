@@ -1,0 +1,13 @@
+Evaluation metrics for men:
+Accuracy: 0.944
+Precision: 0.933
+Recall: 0.933
+F1 Score: 0.933
+ROC AUC Score: 0.943
+
+Best Model Parameters:
+criterion: entropy
+max_depth: None
+max_features: sqrt
+min_samples_leaf: 1
+min_samples_split: 2

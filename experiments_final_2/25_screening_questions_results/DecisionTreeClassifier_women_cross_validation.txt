@@ -1,0 +1,11 @@
+Cross-Validation Results for women:
+Accuracy: [0.897 0.821 0.643 0.893 0.821]
+Precision: [0.929 0.889 0.524 0.875 0.867]
+Recall: [0.867 0.667 1.    0.933 0.812]
+F1 Score: [0.897 0.762 0.688 0.903 0.839]
+ROC AUC Score: [0.931 0.841 0.807 0.867 0.878]
+Mean CV Accuracy: 0.815
+Mean CV Precision: 0.817
+Mean CV Recall: 0.856
+Mean CV F1 Score: 0.818
+Mean CV ROC AUC Score: 0.865
