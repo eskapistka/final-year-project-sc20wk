@@ -1,13 +1,13 @@
 Evaluation metrics for women:
-Accuracy: 0.8333333333333334
-Precision: 0.9230769230769231
-Recall: 0.7058823529411765
-F1 Score: 0.8000000000000002
-ROC AUC Score: 0.8266253869969041
+Accuracy: 0.917
+Precision: 0.889
+Recall: 0.941
+F1 Score: 0.914
+ROC AUC Score: 0.918
 
 Best Model Parameters:
 criterion: entropy
-max_depth: None
+max_depth: 5
 max_features: sqrt
 min_samples_leaf: 2
 min_samples_split: 10

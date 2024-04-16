@@ -1,11 +1,11 @@
 Evaluation metrics for women:
-Accuracy: 0.9166666666666666
-Precision: 0.8888888888888888
-Recall: 0.9411764705882353
-F1 Score: 0.9142857142857143
-ROC AUC Score: 0.9179566563467493
+Accuracy: 0.861
+Precision: 0.833
+Recall: 0.882
+F1 Score: 0.857
+ROC AUC Score: 0.862
 
 Best Model Parameters:
 metric: euclidean
-n_neighbors: 9
+n_neighbors: 7
 weights: uniform

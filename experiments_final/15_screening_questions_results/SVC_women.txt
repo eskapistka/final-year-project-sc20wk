@@ -1,11 +1,11 @@
 Evaluation metrics for women:
-Accuracy: 0.8333333333333334
-Precision: 0.8666666666666667
-Recall: 0.7647058823529411
-F1 Score: 0.8125
-ROC AUC Score: 0.8297213622291022
+Accuracy: 0.861
+Precision: 0.800
+Recall: 0.941
+F1 Score: 0.865
+ROC AUC Score: 0.865
 
 Best Model Parameters:
-C: 100
+C: 1
 gamma: 0.001
 kernel: sigmoid

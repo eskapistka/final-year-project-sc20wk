@@ -1,11 +1,11 @@
 Cross-Validation Results for men:
-Accuracy: [0.89655172 0.82758621 0.89655172 0.82142857 0.92857143]
-Precision: [0.81818182 0.78571429 0.8        0.72222222 1.        ]
-Recall: [0.9        0.84615385 1.         1.         0.85714286]
-F1 Score: [0.85714286 0.81481481 0.88888889 0.83870968 0.92307692]
-ROC AUC Score: [0.97368421 0.90384615 0.96078431 0.9025641  1.        ]
-Mean CV Accuracy: 0.8741379310344828
-Mean CV Precision: 0.8252236652236652
-Mean CV Recall: 0.9206593406593406
-Mean CV F1 Score: 0.8645266322685679
-Mean CV ROC AUC Score: 0.9481757561324125
+Accuracy: [0.931 1.    0.931 0.964 0.964]
+Precision: [0.9   1.    0.917 0.929 1.   ]
+Recall: [0.9   1.    0.917 1.    0.929]
+F1 Score: [0.9   1.    0.917 0.963 0.963]
+ROC AUC Score: [0.984 1.    0.975 1.    1.   ]
+Mean CV Accuracy: 0.958
+Mean CV Precision: 0.949
+Mean CV Recall: 0.949
+Mean CV F1 Score: 0.949
+Mean CV ROC AUC Score: 0.992

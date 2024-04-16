@@ -1,10 +1,10 @@
 Evaluation metrics for men:
-Accuracy: 0.9166666666666666
-Precision: 0.875
-Recall: 0.9333333333333333
-F1 Score: 0.9032258064516129
-ROC AUC Score: 0.919047619047619
+Accuracy: 0.972
+Precision: 1.000
+Recall: 0.933
+F1 Score: 0.966
+ROC AUC Score: 0.967
 
 Best Model Parameters:
-C: 5
+C: 1
 penalty: l1
